@@ -18,7 +18,7 @@ In this game, the player explores a cave consisting of connected rooms while try
 1. **Clone the repository**:
 
     ```bash
-    https://github.com/SoubhLance/AI-Wumpus-Solver.git
+    https://github.com/SaiGaneshan2/wumpus-world-game.git
     cd wumpus
     ```
 
